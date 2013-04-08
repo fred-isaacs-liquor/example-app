@@ -2,8 +2,7 @@
     "name": "fisaacs/exampleapp",
     "description": "This is an example",
     "require": {
-        "slim/slim": "dev-master",
-        "sailthru/sailthru-php5-client": "dev-master"
+        "slim/slim": "dev-master"
     },
     "autoload": {
         "psr-0": {
